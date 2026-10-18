@@ -75,7 +75,7 @@ The output is a predicted species and the corresponding class probabilities.
 
 | 🎯 Prediction | 📊 Visualization |
 |---------------|------------------|
-| ![UI](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_ui.png) | ![Chart](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_chart.png) |
+| ![UI](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_ui.png) | ![Chart](https://raw.githubusercontent.com/shivamsingh/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_chart.png) |
 
 
 ---
@@ -83,14 +83,11 @@ The output is a predicted species and the corresponding class probabilities.
 ## 🙋‍♂️ About the Author
 
 Built with passion and precision by  
-[![Keshav Kumar Jha](https://img.shields.io/badge/GitHub-Keshav_Kumar_Jha-181717?style=flat&logo=github)](https://github.com/jhakeshav25)  
+[![Shivam Singh](https://img.shields.io/badge/GitHub-Shivam Singh-181717?style=flat&logo=github)](https://github.com/shivamsingh)  
 🎓 Aspiring Data Scientist | 💻 Machine Learning Enthusiast | 🌐 Open Source Contributor
 
-Feel free to explore more of my work on [GitHub](https://github.com/jhakeshav25) or connect on [LinkedIn](https://www.linkedin.com/in/keshav-kumar-jha-aa560022a/).
 
 
 ---
 
-## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
